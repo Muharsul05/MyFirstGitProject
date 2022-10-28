@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstGitProject</string>
+    <string name="main_text_is_changing">Main text is changing</string>
 </resources>
